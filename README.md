@@ -1,3 +1,3 @@
 # Kooperatywa "nazwa będzie potem"
 
-[[Outline|"Dokument roboczy"]]
+[Zarys wyzwania](Outline.md)
