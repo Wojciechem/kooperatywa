@@ -1,0 +1,4 @@
+- agenda wysłana wcześniej
+- otwartość
+- decyzje podejmują członkowie
+- protokoły spotkań
